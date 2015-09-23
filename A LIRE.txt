@@ -1,0 +1,8 @@
+importer la base de donnée myitbox
+
+configurer la connexion à la base de données dans le fichier "page/connexion.php"
+
+Backoffice:
+    pseudo = admin
+    mot de passe = admin
+

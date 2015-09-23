@@ -1,0 +1,224 @@
+body{
+    padding-top: 70px;
+    padding: 40px 15px;
+    text-align: center;
+}
+.active{
+    background-color: #31708f;
+}
+#acceuil{
+
+
+    padding-top: 60px;
+    width: 100%;
+    min-height: 700px;
+    background: url(../img/fond/fond1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+#acceuil h1{
+    color: #ffffea;
+    font-size: 70px;
+}
+#acceuilContent{
+    min-height: 500px;
+}
+.img-responsive{
+    margin-top: 45px;
+}
+
+#gamme{
+    background: url(../img/fond/fond2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 70px;
+    text-align: left;
+    min-height:700px;
+}
+.feature2{
+    padding-top: 70px;
+    height: 370px;
+}
+#gammeContent{
+    margin-right: 20px;
+}
+#mission
+{
+    min-height: 450px;
+    padding: 80px 0 60px 0;
+}
+#logonoir{
+    width: 15%;
+    height: 15%;
+}
+#ipad{
+    height: 220px;
+    padding-left: 50px;
+}
+#mission h3
+{
+    color: #333;
+    font-weight: bold;
+    letter-spacing: 1px !important;
+    padding-bottom: 30px;
+}
+
+#mission .media
+{
+    padding: 40px 0 10px 0;
+}
+#mission .media .fa
+{
+    background: #379DC3;
+    border-radius: 60%;
+    color: #0088CC;
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    margin: 0 10px 0 0;
+    padding-right: 0;
+}
+
+#mission .media .media-heading
+{
+    color: #0088CC;
+    font-weight: bold;
+    padding: 0 0 10px 0;
+    margin: 0 0 10px 0;
+}
+#mission
+{
+    font-weight: 400;
+}
+#equipe{
+
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 70px;
+    background-color: #fafbff;
+}
+#equipeContent{
+    background-color:#e0e6ff;
+    margin-right: 20px;
+    border-radius: 50%;
+
+    height: 500px;
+}
+.modal-body{
+    background-color: #cfecff;
+}
+
+.lequipe{
+    height: 100%;
+}
+.bouton{
+   margin-top: 10px;
+}
+.jumbotron{
+    border-radius: 12px 12px 12px 12px;
+}
+.modal-dialog{
+    width: 900px;
+}
+#imageAppli{
+    padding-top:70%;
+}
+
+
+footer{
+    background-color: #0077ff;
+    height: 50px;
+    color: #faf8ff;
+    margin-bottom: 0px;
+}
+.sociaux{
+    background-color: #01011A;
+}
+ul
+{
+    margin-bottom: 0;
+}
+#backgr{
+    display: inline-block;
+    background-color: #01011A;
+}
+.signature{
+    color: #0077ff;
+}
+
+#contact{
+    height: 30px;
+}
+#sociauBouton{
+    padding-bottom: 0px;
+}
+.resulta{
+    width: 100px;
+}
+#devisAppli .modal-body,#devisSite .modal-body {
+   max-height: 550px;
+    overflow: scroll;
+}
+
+
+.flexslider {
+    margin: 0 0 60px;
+    background: #fff;
+    padding: 0;
+    position: relative;
+    zoom: 1;
+    height: 600px;
+    background-color: transparent;
+    overflow: hidden;
+    margin: 0;
+}
+.flexslider .slides {
+    padding-top: 140px;
+    zoom: 1;
+}
+.flexslider .slides img {
+    width: 100%;
+    min-width: 648px;
+    min-height: 270px;
+    display: block;
+}
+.flexslider .slides > li {
+    display: none;
+    padding: 0;
+    position: relative;
+    -webkit-backface-visibility: hidden;
+}
+.flexslider img {
+    position: relative;
+    width: 100%;
+}
+.slider-caption {
+    color:white;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+    z-index: 7;
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+

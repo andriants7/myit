@@ -9,8 +9,8 @@ define('HOST',getenv('OPENSHIFT_MYSQL_DB_HOST'));
 define('PORT',getenv('OPENSHIFT_MYSQL_DB_PORT'));
 
 $Base_de_donnees='myitbox';
-$login='adminVqUZ9qd';
-$mot_de_passe='I6vc35cSQICm';
+$login='adminMs2PtrF';
+$mot_de_passe=' tcEyPIHJvyYS';
 
 
 
